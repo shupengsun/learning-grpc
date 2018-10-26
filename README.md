@@ -73,9 +73,9 @@
 ```
 
 在Maven项目中创建src/main/proto，并在下面放置下面3个.proto文件：
-helloworld.proto
-hello_streaming.proto
-route_guide.proto
+helloworld.proto <br>
+hello_streaming.proto <br>
+route_guide.proto <br>
 
 执行Maven命令：
 mvn clean generate-sources
